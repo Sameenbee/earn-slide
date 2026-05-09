@@ -125,6 +125,7 @@ body {
 
 .cta-button.secondary {
   background-color: var(--secondary);
+  margin-top: 1rem;
 }
 
 /* Section Styles */
